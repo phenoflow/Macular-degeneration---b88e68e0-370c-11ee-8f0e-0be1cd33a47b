@@ -1,0 +1,30 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/macular-degeneration-drusen---primary.py
+inputModule3:
+  class: File
+  path: python/macular-degeneration-epithelium---primary.py
+inputModule4:
+  class: File
+  path: python/macular-degeneration-detachment---primary.py
+inputModule5:
+  class: File
+  path: python/macular-degeneration-posterior---primary.py
+inputModule6:
+  class: File
+  path: python/macular-degeneration-senile---primary.py
+inputModule7:
+  class: File
+  path: python/macular-degeneration---primary.py
+inputModule8:
+  class: File
+  path: python/macular-degeneration-macula-posterior-pole-degeneration---secondary.py
+inputModule9:
+  class: File
+  path: python/output-cases.py
